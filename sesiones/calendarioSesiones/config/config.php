@@ -1,0 +1,39 @@
+<?php
+$arrayMeses=array(
+    "Enero"=>array("ndias"=>31, 
+                   "diasFestivos"=>array(1,6)
+                ), 
+    "Febrero"=>array("ndias"=>28, 
+                     "diasFestivos"=>array(28)
+                ), 
+    "Marzo"=>array("ndias"=>31, 
+                   "diasFestivos"=>array()
+                ),
+    "Abril"=>array("ndias"=>30, 
+                   "diasFestivos"=>array()
+                ),
+    "Mayo"=>array("ndias"=>31, 
+                  "diasFestivos"=>array(1)
+                ),
+    "Junio"=>array("ndias"=>30, 
+                   "diasFestivos"=>array()
+                ),
+    "Julio"=>array("ndias"=>31, 
+                   "diasFestivos"=>array()
+                ),
+    "Agosto"=>array("ndias"=>31, 
+                    "diasFestivos"=>array(15)
+                ),
+    "Septiembre"=>array("ndias"=>30, 
+                        "diasFestivos"=>array()
+                ),
+    "Octubre"=>array("ndias"=>31, 
+                     "diasFestivos"=>array(12)
+                ),
+    "Noviembre"=>array("ndias"=>30, 
+                       "diasFestivos"=>array(1)
+                ),
+    "Diciembre"=>array("ndias"=>31, 
+                       "diasFestivos"=>array(6,8,12,25)
+                ));
+?>

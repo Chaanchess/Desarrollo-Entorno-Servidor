@@ -1,0 +1,4 @@
+.clase_error::before{
+    color:red;
+    content: '\26A0';
+}

@@ -1,0 +1,47 @@
+body {
+    padding-left: 3em;
+    font-family: "Georgia", "Times New Roman";
+    background-color: blanchedalmond ;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+ul.navbar {
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em;
+}
+
+h1 { 
+    font-family: Arial, sans-serif 
+}
+
+ul.navbar a {
+    text-decoration: none 
+}
+
+a:link {
+  color: blue 
+}
+a:visited {
+  color: purple 
+}
